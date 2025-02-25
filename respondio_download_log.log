@@ -1,0 +1,298 @@
+2025-01-28 00:38:24,975 - INFO - Attempt 1/5 - Navigating to login page...
+2025-01-28 00:38:28,277 - INFO - Successfully loaded login page
+2025-01-28 00:38:28,598 - INFO - Attempting login...
+2025-01-28 00:38:29,667 - INFO - Email entered
+2025-01-28 00:38:29,934 - INFO - Password entered
+2025-01-28 00:38:30,072 - INFO - Login button clicked
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/respondio_download.py", line 215, in <module>
+    time.sleep(10)
+KeyboardInterrupt
+2025-01-28 00:58:34,447 - INFO - Attempt 1/5 - Navigating to login page...
+2025-01-28 00:58:37,593 - INFO - Successfully loaded login page
+2025-01-28 00:58:37,894 - INFO - Attempting login...
+2025-01-28 00:58:39,534 - INFO - Email entered
+2025-01-28 00:58:39,870 - INFO - Password entered
+2025-01-28 00:58:40,142 - INFO - Login button clicked
+2025-01-28 00:58:50,143 - INFO - Navigating to data export page...
+2025-01-28 00:59:30,850 - INFO - Clicking export button...
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/respondio_download.py", line 228, in <module>
+    export_button = WebDriverWait(driver,20).until(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x556898a3c303 <unknown>
+#1 0x5568987212b7 <unknown>
+#2 0x55689876ccc0 <unknown>
+#3 0x55689876cdb1 <unknown>
+#4 0x5568987b0b44 <unknown>
+#5 0x55689878f3ad <unknown>
+#6 0x5568987ae07c <unknown>
+#7 0x55689878f123 <unknown>
+#8 0x55689875f095 <unknown>
+#9 0x55689876009e <unknown>
+#10 0x556898a006ab <unknown>
+#11 0x556898a044ba <unknown>
+#12 0x5568989ecf85 <unknown>
+#13 0x556898a0512f <unknown>
+#14 0x5568989d0e6f <unknown>
+#15 0x556898a295f8 <unknown>
+#16 0x556898a297c2 <unknown>
+#17 0x556898a3b4a4 <unknown>
+#18 0x7f357b4d91c4 <unknown>
+
+2025-01-28 05:00:07,414 - INFO - Attempt 1/5 - Navigating to login page...
+2025-01-28 05:00:12,771 - INFO - Successfully loaded login page
+2025-01-28 05:00:13,147 - INFO - Attempting login...
+2025-01-28 05:00:17,322 - INFO - Email entered
+2025-01-28 05:00:18,008 - INFO - Password entered
+2025-01-28 05:00:18,400 - INFO - Login button clicked
+2025-01-28 05:00:28,401 - INFO - Navigating to data export page...
+2025-01-28 05:01:08,849 - INFO - Clicking export button...
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/respondio_download.py", line 228, in <module>
+    export_button = WebDriverWait(driver,20).until(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55ca01890303 <unknown>
+#1 0x55ca015752b7 <unknown>
+#2 0x55ca015c0cc0 <unknown>
+#3 0x55ca015c0db1 <unknown>
+#4 0x55ca01604b44 <unknown>
+#5 0x55ca015e33ad <unknown>
+#6 0x55ca0160207c <unknown>
+#7 0x55ca015e3123 <unknown>
+#8 0x55ca015b3095 <unknown>
+#9 0x55ca015b409e <unknown>
+#10 0x55ca018546ab <unknown>
+#11 0x55ca018584ba <unknown>
+#12 0x55ca01840f85 <unknown>
+#13 0x55ca0185912f <unknown>
+#14 0x55ca01824e6f <unknown>
+#15 0x55ca0187d5f8 <unknown>
+#16 0x55ca0187d7c2 <unknown>
+#17 0x55ca0188f4a4 <unknown>
+#18 0x7f59f99a61c4 <unknown>
+
+2025-01-29 05:00:08,146 - INFO - Attempt 1/5 - Navigating to login page...
+2025-01-29 05:00:11,318 - INFO - Successfully loaded login page
+2025-01-29 05:00:11,604 - INFO - Attempting login...
+2025-01-29 05:00:12,493 - INFO - Email entered
+2025-01-29 05:00:12,719 - INFO - Password entered
+2025-01-29 05:00:12,835 - INFO - Login button clicked
+2025-01-29 05:00:22,835 - INFO - Navigating to data export page...
+2025-01-29 05:01:03,045 - INFO - Clicking export button...
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/respondio_download.py", line 228, in <module>
+    export_button = WebDriverWait(driver,20).until(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55dca30ce303 <unknown>
+#1 0x55dca2db32b7 <unknown>
+#2 0x55dca2dfecc0 <unknown>
+#3 0x55dca2dfedb1 <unknown>
+#4 0x55dca2e42b44 <unknown>
+#5 0x55dca2e213ad <unknown>
+#6 0x55dca2e4007c <unknown>
+#7 0x55dca2e21123 <unknown>
+#8 0x55dca2df1095 <unknown>
+#9 0x55dca2df209e <unknown>
+#10 0x55dca30926ab <unknown>
+#11 0x55dca30964ba <unknown>
+#12 0x55dca307ef85 <unknown>
+#13 0x55dca309712f <unknown>
+#14 0x55dca3062e6f <unknown>
+#15 0x55dca30bb5f8 <unknown>
+#16 0x55dca30bb7c2 <unknown>
+#17 0x55dca30cd4a4 <unknown>
+#18 0x7f462d3361c4 <unknown>
+
+2025-01-30 05:00:08,065 - INFO - Attempt 1/5 - Navigating to login page...
+2025-01-30 05:00:11,412 - INFO - Successfully loaded login page
+2025-01-30 05:00:11,705 - INFO - Attempting login...
+2025-01-30 05:00:12,589 - INFO - Email entered
+2025-01-30 05:00:12,815 - INFO - Password entered
+2025-01-30 05:00:12,934 - INFO - Login button clicked
+2025-01-30 05:00:22,935 - INFO - Navigating to data export page...
+2025-01-30 05:01:02,628 - INFO - Clicking export button...
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/respondio_download.py", line 228, in <module>
+    export_button = WebDriverWait(driver,20).until(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55c8140a2303 <unknown>
+#1 0x55c813d872b7 <unknown>
+#2 0x55c813dd2cc0 <unknown>
+#3 0x55c813dd2db1 <unknown>
+#4 0x55c813e16b44 <unknown>
+#5 0x55c813df53ad <unknown>
+#6 0x55c813e1407c <unknown>
+#7 0x55c813df5123 <unknown>
+#8 0x55c813dc5095 <unknown>
+#9 0x55c813dc609e <unknown>
+#10 0x55c8140666ab <unknown>
+#11 0x55c81406a4ba <unknown>
+#12 0x55c814052f85 <unknown>
+#13 0x55c81406b12f <unknown>
+#14 0x55c814036e6f <unknown>
+#15 0x55c81408f5f8 <unknown>
+#16 0x55c81408f7c2 <unknown>
+#17 0x55c8140a14a4 <unknown>
+#18 0x7fe35c6e71c4 <unknown>
+
+2025-01-31 05:00:09,059 - INFO - Attempt 1/5 - Navigating to login page...
+2025-01-31 05:00:12,570 - INFO - Successfully loaded login page
+2025-01-31 05:00:12,897 - INFO - Attempting login...
+2025-01-31 05:00:13,976 - INFO - Email entered
+2025-01-31 05:00:14,233 - INFO - Password entered
+2025-01-31 05:00:14,371 - INFO - Login button clicked
+2025-01-31 05:00:24,371 - INFO - Navigating to data export page...
+2025-01-31 05:01:06,938 - INFO - Clicking export button...
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/respondio_download.py", line 228, in <module>
+    export_button = WebDriverWait(driver,20).until(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55b94ca86303 <unknown>
+#1 0x55b94c76b2b7 <unknown>
+#2 0x55b94c7b6cc0 <unknown>
+#3 0x55b94c7b6db1 <unknown>
+#4 0x55b94c7fab44 <unknown>
+#5 0x55b94c7d93ad <unknown>
+#6 0x55b94c7f807c <unknown>
+#7 0x55b94c7d9123 <unknown>
+#8 0x55b94c7a9095 <unknown>
+#9 0x55b94c7aa09e <unknown>
+#10 0x55b94ca4a6ab <unknown>
+#11 0x55b94ca4e4ba <unknown>
+#12 0x55b94ca36f85 <unknown>
+#13 0x55b94ca4f12f <unknown>
+#14 0x55b94ca1ae6f <unknown>
+#15 0x55b94ca735f8 <unknown>
+#16 0x55b94ca737c2 <unknown>
+#17 0x55b94ca854a4 <unknown>
+#18 0x7f6f391861c4 <unknown>
+
+2025-02-01 05:00:07,857 - INFO - Attempt 1/5 - Navigating to login page...
+2025-02-01 05:00:10,923 - INFO - Successfully loaded login page
+2025-02-01 05:00:11,240 - INFO - Attempting login...
+2025-02-01 05:00:12,150 - INFO - Email entered
+2025-02-01 05:00:12,421 - INFO - Password entered
+2025-02-01 05:00:12,545 - INFO - Login button clicked
+2025-02-01 05:00:22,545 - INFO - Navigating to data export page...
+2025-02-01 05:01:03,202 - INFO - Clicking export button...
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/respondio_download.py", line 228, in <module>
+    export_button = WebDriverWait(driver,20).until(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55ffe5f40303 <unknown>
+#1 0x55ffe5c252b7 <unknown>
+#2 0x55ffe5c70cc0 <unknown>
+#3 0x55ffe5c70db1 <unknown>
+#4 0x55ffe5cb4b44 <unknown>
+#5 0x55ffe5c933ad <unknown>
+#6 0x55ffe5cb207c <unknown>
+#7 0x55ffe5c93123 <unknown>
+#8 0x55ffe5c63095 <unknown>
+#9 0x55ffe5c6409e <unknown>
+#10 0x55ffe5f046ab <unknown>
+#11 0x55ffe5f084ba <unknown>
+#12 0x55ffe5ef0f85 <unknown>
+#13 0x55ffe5f0912f <unknown>
+#14 0x55ffe5ed4e6f <unknown>
+#15 0x55ffe5f2d5f8 <unknown>
+#16 0x55ffe5f2d7c2 <unknown>
+#17 0x55ffe5f3f4a4 <unknown>
+#18 0x7f780fc631c4 <unknown>
+
+2025-02-02 05:00:07,819 - INFO - Attempt 1/5 - Navigating to login page...
+2025-02-02 05:00:10,817 - INFO - Successfully loaded login page
+2025-02-02 05:00:11,115 - INFO - Attempting login...
+2025-02-02 05:00:12,081 - INFO - Email entered
+2025-02-02 05:00:12,314 - INFO - Password entered
+2025-02-02 05:00:12,435 - INFO - Login button clicked
+2025-02-02 05:00:22,435 - INFO - Navigating to data export page...
+2025-02-02 05:01:03,172 - INFO - Clicking export button...
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/respondio_download.py", line 228, in <module>
+    export_button = WebDriverWait(driver,20).until(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x560ec7c67303 <unknown>
+#1 0x560ec794c2b7 <unknown>
+#2 0x560ec7997cc0 <unknown>
+#3 0x560ec7997db1 <unknown>
+#4 0x560ec79dbb44 <unknown>
+#5 0x560ec79ba3ad <unknown>
+#6 0x560ec79d907c <unknown>
+#7 0x560ec79ba123 <unknown>
+#8 0x560ec798a095 <unknown>
+#9 0x560ec798b09e <unknown>
+#10 0x560ec7c2b6ab <unknown>
+#11 0x560ec7c2f4ba <unknown>
+#12 0x560ec7c17f85 <unknown>
+#13 0x560ec7c3012f <unknown>
+#14 0x560ec7bfbe6f <unknown>
+#15 0x560ec7c545f8 <unknown>
+#16 0x560ec7c547c2 <unknown>
+#17 0x560ec7c664a4 <unknown>
+#18 0x7f61cc7951c4 <unknown>
+
+2025-02-03 05:00:08,022 - INFO - Attempt 1/5 - Navigating to login page...
+2025-02-03 05:00:11,327 - INFO - Successfully loaded login page
+2025-02-03 05:00:11,754 - INFO - Attempting login...
+2025-02-03 05:00:12,749 - INFO - Email entered
+2025-02-03 05:00:13,003 - INFO - Password entered
+2025-02-03 05:00:13,132 - INFO - Login button clicked
+2025-02-03 05:00:23,132 - INFO - Navigating to data export page...
+2025-02-03 05:01:02,923 - INFO - Clicking export button...
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/respondio_download.py", line 228, in <module>
+    export_button = WebDriverWait(driver,20).until(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x56496a31a303 <unknown>
+#1 0x564969fff2b7 <unknown>
+#2 0x56496a04acc0 <unknown>
+#3 0x56496a04adb1 <unknown>
+#4 0x56496a08eb44 <unknown>
+#5 0x56496a06d3ad <unknown>
+#6 0x56496a08c07c <unknown>
+#7 0x56496a06d123 <unknown>
+#8 0x56496a03d095 <unknown>
+#9 0x56496a03e09e <unknown>
+#10 0x56496a2de6ab <unknown>
+#11 0x56496a2e24ba <unknown>
+#12 0x56496a2caf85 <unknown>
+#13 0x56496a2e312f <unknown>
+#14 0x56496a2aee6f <unknown>
+#15 0x56496a3075f8 <unknown>
+#16 0x56496a3077c2 <unknown>
+#17 0x56496a3194a4 <unknown>
+#18 0x7fbea77541c4 <unknown>
+

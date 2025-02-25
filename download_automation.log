@@ -1,0 +1,290 @@
+2025-02-05 05:38:51,481 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 05:38:56,484 - INFO - Opening chrome browser
+2025-02-05 05:39:20,921 - INFO - Starting login process
+2025-02-05 05:39:20,921 - INFO - Navigating to login URL
+2025-02-05 05:39:26,280 - INFO - Navigation to login page complete
+2025-02-05 05:39:26,280 - INFO - Waiting for login page to load
+2025-02-05 05:39:46,281 - INFO - Entering email
+2025-02-05 05:39:48,498 - ERROR - Login failed: 'function' object is not iterable
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/pyauto_respondio.py", line 190, in login
+    pg.write(email)
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/pyautogui/__init__.py", line 594, in wrapper
+    returnVal = wrappedFunction(*args, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/pyautogui/__init__.py", line 1682, in typewrite
+    for c in message:
+TypeError: 'function' object is not iterable
+2025-02-05 05:39:48,516 - INFO - Login attempt finished. Success: False
+2025-02-05 05:42:57,301 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 05:43:02,303 - INFO - Opening chrome browser
+2025-02-05 05:43:26,733 - INFO - Starting login process
+2025-02-05 05:43:26,734 - INFO - Navigating to login URL
+2025-02-05 05:43:32,108 - INFO - Navigation to login page complete
+2025-02-05 05:43:32,108 - INFO - Waiting for login page to load
+2025-02-05 05:43:52,110 - INFO - Entering email
+2025-02-05 05:43:54,330 - ERROR - Login failed: 'function' object is not iterable
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/pyauto_respondio.py", line 190, in login
+    pg.write(email)
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/pyautogui/__init__.py", line 594, in wrapper
+    returnVal = wrappedFunction(*args, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/pyautogui/__init__.py", line 1682, in typewrite
+    for c in message:
+TypeError: 'function' object is not iterable
+2025-02-05 05:43:54,338 - INFO - Login attempt finished. Success: False
+2025-02-05 05:45:29,328 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 05:45:42,976 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 05:45:47,977 - INFO - Opening chrome browser
+2025-02-05 05:46:12,410 - INFO - Starting login process
+2025-02-05 05:46:12,410 - INFO - Navigating to login URL
+2025-02-05 05:46:17,785 - INFO - Navigation to login page complete
+2025-02-05 05:46:17,787 - INFO - Waiting for login page to load
+2025-02-05 05:46:37,789 - INFO - Entering email
+2025-02-05 05:46:40,010 - ERROR - Login failed: 'function' object is not iterable
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/pyauto_respondio.py", line 190, in login
+    pg.write(email)
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/pyautogui/__init__.py", line 594, in wrapper
+    returnVal = wrappedFunction(*args, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/pyautogui/__init__.py", line 1682, in typewrite
+    for c in message:
+TypeError: 'function' object is not iterable
+2025-02-05 05:46:40,014 - INFO - Login attempt finished. Success: False
+2025-02-05 05:46:40,014 - INFO - Attempted login for user: <function login at 0x7f10ea931800>
+2025-02-05 05:46:40,014 - INFO - Logged in failed, aborting process
+2025-02-05 05:47:51,019 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 05:47:56,019 - INFO - Opening chrome browser
+2025-02-05 05:48:20,449 - INFO - Starting login process
+2025-02-05 05:48:20,449 - INFO - Navigating to login URL
+2025-02-05 05:48:25,814 - INFO - Navigation to login page complete
+2025-02-05 05:48:25,816 - INFO - Waiting for login page to load
+2025-02-05 05:48:45,817 - INFO - Entering email
+2025-02-05 05:48:48,036 - ERROR - Login failed: 'function' object is not iterable
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/pyauto_respondio.py", line 190, in login
+    pg.write(email)
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/pyautogui/__init__.py", line 594, in wrapper
+    returnVal = wrappedFunction(*args, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dhon_bobis/shopee/venv/lib/python3.11/site-packages/pyautogui/__init__.py", line 1682, in typewrite
+    for c in message:
+TypeError: 'function' object is not iterable
+2025-02-05 05:48:48,039 - INFO - Login attempt finished. Success: False
+2025-02-05 05:48:48,040 - INFO - Attempted login for user: <function login at 0x7fc6da25d800>
+2025-02-05 05:48:48,040 - INFO - Logged in failed, aborting process
+2025-02-05 05:50:05,151 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 05:51:01,468 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 05:51:06,479 - INFO - Opening chrome browser
+2025-02-05 05:51:30,908 - INFO - Starting login process
+2025-02-05 05:51:30,909 - INFO - Navigating to login URL
+2025-02-05 05:51:36,304 - INFO - Navigation to login page complete
+2025-02-05 05:51:36,305 - INFO - Waiting for login page to load
+2025-02-05 05:51:56,307 - INFO - Entering email
+2025-02-05 05:51:58,780 - INFO - Email entered successfully
+2025-02-05 05:51:58,780 - INFO - Entering password
+2025-02-05 05:52:01,088 - INFO - Password entered successfully
+2025-02-05 05:52:01,089 - INFO - Submitting login form
+2025-02-05 05:52:01,190 - INFO - Waiting for login to process
+2025-02-05 05:52:21,191 - INFO - Login process completed successfully
+2025-02-05 05:52:21,191 - INFO - Login attempt finished. Success: True
+2025-02-05 05:52:21,191 - INFO - Attempted login for user: data-engineering-service-account@focusglobalinc.com
+2025-02-05 05:52:21,191 - INFO - Logged in successfully, transition to export
+2025-02-05 05:52:21,191 - INFO - Starting download process
+2025-02-05 05:52:21,191 - INFO - Initiating URL navigation
+2025-02-05 05:52:21,298 - INFO - Pressed Ctrl+L to focus address bar
+2025-02-05 05:52:23,521 - INFO - Entered URL: https://app.respond.io/space/159614/settings/data_export
+2025-02-05 05:52:25,629 - INFO - Pressed Enter to navigate
+2025-02-05 05:52:27,631 - INFO - Waiting for page to load completely
+2025-02-05 05:52:47,631 - INFO - Triggering contacts export download
+2025-02-05 05:52:52,840 - INFO - Triggered contacts export download
+2025-02-05 05:52:52,842 - INFO - Waiting for export completion email...
+2025-02-05 05:52:52,842 - INFO - Starting to check for export completion email
+2025-02-05 05:52:54,546 - ERROR - Error checking email: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+Traceback (most recent call last):
+  File "/home/dhon_bobis/shopee/pyauto_respondio.py", line 39, in check_for_export_email
+    mail.login(email_address, password)
+  File "/usr/lib/python3.11/imaplib.py", line 612, in login
+    raise self.error(dat[-1])
+imaplib.IMAP4.error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-02-05 05:52:54,554 - ERROR - Export completion email not received within timeout period
+2025-02-05 05:52:54,554 - INFO - Download process finished. Success: False
+2025-02-05 06:07:00,493 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 06:07:05,494 - INFO - Opening chrome browser
+2025-02-05 06:07:29,922 - INFO - Starting login process
+2025-02-05 06:07:29,923 - INFO - Navigating to login URL
+2025-02-05 06:07:35,293 - INFO - Navigation to login page complete
+2025-02-05 06:07:35,295 - INFO - Waiting for login page to load
+2025-02-05 06:07:55,297 - INFO - Entering email
+2025-02-05 06:07:57,734 - INFO - Email entered successfully
+2025-02-05 06:07:57,734 - INFO - Entering password
+2025-02-05 06:08:00,020 - INFO - Password entered successfully
+2025-02-05 06:08:00,020 - INFO - Submitting login form
+2025-02-05 06:08:00,122 - INFO - Waiting for login to process
+2025-02-05 06:08:20,122 - INFO - Login process completed successfully
+2025-02-05 06:08:20,124 - INFO - Login attempt finished. Success: True
+2025-02-05 06:08:20,125 - INFO - Attempted login for user: data-engineering-service-account@focusglobalinc.com
+2025-02-05 06:08:20,126 - INFO - Logged in successfully, transition to export
+2025-02-05 06:08:20,127 - INFO - Starting download process
+2025-02-05 06:08:20,127 - INFO - Initiating URL navigation
+2025-02-05 06:08:20,241 - INFO - Pressed Ctrl+L to focus address bar
+2025-02-05 06:08:22,439 - INFO - Entered URL: https://app.respond.io/space/159614/settings/data_export
+2025-02-05 06:08:22,699 - INFO - Download process finished. Success: False
+2025-02-05 06:08:33,688 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 06:08:38,689 - INFO - Opening chrome browser
+2025-02-05 06:09:03,122 - INFO - Starting login process
+2025-02-05 06:09:03,122 - INFO - Navigating to login URL
+2025-02-05 06:09:08,498 - INFO - Navigation to login page complete
+2025-02-05 06:09:08,499 - INFO - Waiting for login page to load
+2025-02-05 06:09:28,500 - INFO - Entering email
+2025-02-05 06:09:30,926 - INFO - Email entered successfully
+2025-02-05 06:09:30,927 - INFO - Entering password
+2025-02-05 06:09:33,255 - INFO - Password entered successfully
+2025-02-05 06:09:33,255 - INFO - Submitting login form
+2025-02-05 06:09:33,357 - INFO - Waiting for login to process
+2025-02-05 06:09:53,361 - INFO - Login process completed successfully
+2025-02-05 06:09:53,361 - INFO - Login attempt finished. Success: True
+2025-02-05 06:09:53,361 - INFO - Attempted login for user: data-engineering-service-account@focusglobalinc.com
+2025-02-05 06:09:53,361 - INFO - Logged in successfully, transition to export
+2025-02-05 06:09:53,361 - INFO - Starting download process
+2025-02-05 06:09:53,362 - INFO - Initiating URL navigation
+2025-02-05 06:09:53,476 - INFO - Pressed Ctrl+L to focus address bar
+2025-02-05 06:09:55,679 - INFO - Entered URL: https://app.respond.io/space/159614/settings/data_export
+2025-02-05 06:09:57,790 - INFO - Pressed Enter to navigate
+2025-02-05 06:09:59,790 - INFO - Waiting for page to load completely
+2025-02-05 06:10:19,790 - INFO - Triggering contacts export download
+2025-02-05 06:10:24,999 - INFO - Triggered contacts export download
+2025-02-05 06:10:25,001 - INFO - Waiting for export completion email...
+2025-02-05 06:10:25,002 - INFO - Starting to check for export completion email
+2025-02-05 06:10:25,010 - INFO - Successfully loaded credentials from YAML
+2025-02-05 06:10:26,071 - INFO - Successfully connected to Gmail
+2025-02-05 06:10:27,082 - INFO - Export completion email found
+2025-02-05 06:10:27,391 - INFO - Export completion confirmed via email
+2025-02-05 06:10:27,392 - INFO - Download process finished. Success: True
+2025-02-05 06:22:51,238 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 06:22:56,542 - INFO - Opening chrome browser
+2025-02-05 06:23:20,972 - INFO - Starting login process
+2025-02-05 06:23:20,973 - INFO - Navigating to login URL
+2025-02-05 06:23:26,329 - INFO - Navigation to login page complete
+2025-02-05 06:23:26,330 - INFO - Waiting for login page to load
+2025-02-05 06:23:46,330 - INFO - Entering email
+2025-02-05 06:23:48,767 - INFO - Email entered successfully
+2025-02-05 06:23:48,768 - INFO - Entering password
+2025-02-05 06:23:51,090 - INFO - Password entered successfully
+2025-02-05 06:23:51,090 - INFO - Submitting login form
+2025-02-05 06:23:51,194 - INFO - Waiting for login to process
+2025-02-05 06:24:11,195 - INFO - Login process completed successfully
+2025-02-05 06:24:11,195 - INFO - Login attempt finished. Success: True
+2025-02-05 06:24:11,196 - INFO - Attempted login for user: data-engineering-service-account@focusglobalinc.com
+2025-02-05 06:24:11,196 - INFO - Logged in successfully, transition to export
+2025-02-05 06:24:11,196 - INFO - Starting download process
+2025-02-05 06:24:11,196 - INFO - Initiating URL navigation
+2025-02-05 06:24:11,309 - INFO - Pressed Ctrl+L to focus address bar
+2025-02-05 06:24:13,501 - INFO - Entered URL: https://app.respond.io/space/159614/settings/data_export
+2025-02-05 06:24:15,603 - INFO - Pressed Enter to navigate
+2025-02-05 06:24:17,603 - INFO - Waiting for page to load completely
+2025-02-05 06:24:37,608 - INFO - Triggering contacts export download
+2025-02-05 06:24:42,818 - INFO - Triggered contacts export download
+2025-02-05 06:24:42,818 - INFO - Waiting for export completion email...
+2025-02-05 06:24:42,820 - INFO - Starting to check for unread export completion email
+2025-02-05 06:24:42,838 - INFO - Successfully loaded credentials from YAML
+2025-02-05 06:24:45,209 - INFO - Successfully connected to Gmail
+2025-02-05 06:24:48,619 - INFO - Unread export completion email found
+2025-02-05 06:24:49,043 - INFO - Marked export completion email as read
+2025-02-05 06:24:49,443 - INFO - Export completion confirmed via email
+2025-02-05 06:24:59,444 - INFO - Downloading exported contacts data
+2025-02-05 06:25:01,653 - INFO - Refreshed exports page to download export
+2025-02-05 06:25:08,864 - INFO - Clicked download button
+2025-02-05 06:25:18,864 - INFO - Export file downloaded
+2025-02-05 06:25:18,864 - INFO - Download process finished. Success: True
+2025-02-05 06:31:13,775 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 06:31:19,110 - INFO - Opening chrome browser
+2025-02-05 06:33:34,975 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 06:33:40,281 - INFO - Opening chrome browser
+2025-02-05 06:34:04,717 - INFO - Starting login process
+2025-02-05 06:34:04,718 - INFO - Navigating to login URL
+2025-02-05 06:34:10,095 - INFO - Navigation to login page complete
+2025-02-05 06:34:10,100 - INFO - Waiting for login page to load
+2025-02-05 06:34:30,100 - INFO - Entering email
+2025-02-05 06:34:32,560 - INFO - Email entered successfully
+2025-02-05 06:34:32,560 - INFO - Entering password
+2025-02-05 06:34:34,858 - INFO - Password entered successfully
+2025-02-05 06:34:34,859 - INFO - Submitting login form
+2025-02-05 06:34:34,961 - INFO - Waiting for login to process
+2025-02-05 06:34:54,961 - INFO - Login process completed successfully
+2025-02-05 06:34:55,279 - INFO - Login attempt finished. Success: True
+2025-02-05 06:34:55,280 - INFO - Attempted login for user: data-engineering-service-account@focusglobalinc.com
+2025-02-05 06:34:55,280 - INFO - Logged in successfully, transition to export
+2025-02-05 06:34:55,280 - INFO - Starting download process
+2025-02-05 06:34:55,280 - INFO - Initiating URL navigation
+2025-02-05 06:34:55,390 - INFO - Pressed Ctrl+L to focus address bar
+2025-02-05 06:34:57,605 - INFO - Entered URL: https://app.respond.io/space/159614/settings/data_export
+2025-02-05 06:34:59,713 - INFO - Pressed Enter to navigate
+2025-02-05 06:35:01,713 - INFO - Waiting for page to load completely
+2025-02-05 06:35:21,714 - INFO - Triggering contacts export download
+2025-02-05 06:35:26,922 - INFO - Triggered contacts export download
+2025-02-05 06:35:27,227 - INFO - Waiting for export completion email...
+2025-02-05 06:35:27,230 - INFO - Starting to check for unread export completion email
+2025-02-05 06:35:27,250 - INFO - Successfully loaded credentials from YAML
+2025-02-05 06:35:28,705 - INFO - Successfully connected to Gmail
+2025-02-05 06:35:29,978 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 06:36:01,173 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 06:36:32,374 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 06:37:03,627 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 06:37:34,864 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 06:38:06,026 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 06:38:37,205 - INFO - Unread export completion email found
+2025-02-05 06:38:37,521 - INFO - Marked export completion email as read
+2025-02-05 06:38:37,821 - INFO - Export completion confirmed via email
+2025-02-05 06:38:47,821 - INFO - Downloading exported contacts data
+2025-02-05 06:38:50,027 - INFO - Refreshed exports page to download export
+2025-02-05 06:39:12,230 - INFO - Clicked download button
+2025-02-05 06:39:22,231 - INFO - Export file downloaded
+2025-02-05 06:39:22,552 - INFO - Download process finished. Success: True
+2025-02-05 07:11:59,573 - INFO - Started PyAutoGUI Script for Respondio Scraping
+2025-02-05 07:12:04,898 - INFO - Opening chrome browser
+2025-02-05 07:12:29,328 - INFO - Starting login process
+2025-02-05 07:12:29,329 - INFO - Navigating to login URL
+2025-02-05 07:12:34,747 - INFO - Navigation to login page complete
+2025-02-05 07:12:34,752 - INFO - Waiting for login page to load
+2025-02-05 07:12:54,763 - INFO - Entering email
+2025-02-05 07:12:57,208 - INFO - Email entered successfully
+2025-02-05 07:12:57,208 - INFO - Entering password
+2025-02-05 07:12:59,498 - INFO - Password entered successfully
+2025-02-05 07:12:59,499 - INFO - Submitting login form
+2025-02-05 07:12:59,601 - INFO - Waiting for login to process
+2025-02-05 07:13:19,603 - INFO - Login process completed successfully
+2025-02-05 07:13:19,941 - INFO - Login attempt finished. Success: True
+2025-02-05 07:13:19,941 - INFO - Attempted login for user: data-engineering-service-account@focusglobalinc.com
+2025-02-05 07:13:19,941 - INFO - Logged in successfully, transition to export
+2025-02-05 07:13:19,941 - INFO - Starting download process
+2025-02-05 07:13:19,941 - INFO - Initiating URL navigation
+2025-02-05 07:13:20,053 - INFO - Pressed Ctrl+L to focus address bar
+2025-02-05 07:13:22,255 - INFO - Entered URL: https://app.respond.io/space/159614/settings/data_export
+2025-02-05 07:13:24,356 - INFO - Pressed Enter to navigate
+2025-02-05 07:13:26,357 - INFO - Waiting for page to load completely
+2025-02-05 07:13:46,357 - INFO - Triggering contacts export download
+2025-02-05 07:13:51,575 - INFO - Triggered contacts export download
+2025-02-05 07:13:51,888 - INFO - Waiting for export completion email...
+2025-02-05 07:13:51,890 - INFO - Starting to check for unread export completion email
+2025-02-05 07:13:51,906 - INFO - Successfully loaded credentials from YAML
+2025-02-05 07:13:53,422 - INFO - Successfully connected to Gmail
+2025-02-05 07:13:54,680 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 07:14:26,415 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 07:14:57,595 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 07:15:29,169 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 07:16:00,325 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 07:16:31,489 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 07:17:02,693 - INFO - Unread export email not found yet, waiting 30 seconds...
+2025-02-05 07:17:33,842 - INFO - Unread export completion email found
+2025-02-05 07:17:34,142 - INFO - Marked export completion email as read
+2025-02-05 07:17:34,436 - INFO - Export completion confirmed via email
+2025-02-05 07:17:44,436 - INFO - Downloading exported contacts data
+2025-02-05 07:17:46,647 - INFO - Refreshed exports page to download export
+2025-02-05 07:18:08,865 - INFO - Clicked download button
+2025-02-05 07:18:18,868 - INFO - Export file downloaded
+2025-02-05 07:18:18,869 - INFO - Signing out current session
+2025-02-05 07:18:39,291 - INFO - Account signed out
+2025-02-05 07:18:39,591 - INFO - Download process finished. Success: True
